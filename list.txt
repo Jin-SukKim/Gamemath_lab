@@ -3,7 +3,13 @@
 삼각함수
 행렬
 아핀공간
+아핀 결합식 (선 그리기)
+벡터 내적
 
+1. https://www.youtube.com/watch?v=vgZ2WjqSJCE&list=PLXJ3W1lEGK8WuXHxTYhfySWTbjpnun-AR&ab_channel=%EC%88%98%EC%95%85%EC%A4%91%EB%8F%85
+2. https://www.youtube.com/watch?v=nKScxhbE7Cc&list=PLXJ3W1lEGK8W56nIWi8pTVbnT_3mmm3nJ&ab_channel=%EC%88%98%EC%95%85%EC%A4%91%EB%8F%85
+3. https://www.youtube.com/watch?v=7OLSwDEDGRA&list=PLXJ3W1lEGK8UW-_e2bNY6Sy1siyc7yFV9&ab_channel=%EC%88%98%EC%95%85%EC%A4%91%EB%8F%85
+4. https://www.youtube.com/watch?v=nxiVG22BaZk&list=PLXJ3W1lEGK8XvKJ3yB0BVuJg4Y9kJwhtn&ab_channel=%EC%88%98%EC%95%85%EC%A4%91%EB%8F%85
 
 https://www.youtube.com/watch?v=YZKS_JwmOzs&list=PLxz77rwoJPpXjltDYVC7KHqXEp-ejZaCJ&ab_channel=%EC%84%A4%EB%A0%88%EB%8A%94%EC%88%98%ED%95%99
 https://www.youtube.com/watch?v=vpQKTns81Nc&list=PLXJ3W1lEGK8WuXHxTYhfySWTbjpnun-AR&index=23&ab_channel=%EC%88%98%EC%95%85%EC%A4%91%EB%8F%85
